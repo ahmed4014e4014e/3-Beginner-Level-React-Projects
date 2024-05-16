@@ -19,7 +19,6 @@ import About from "./routes/about";
 import Contact from "./routes/contact";
 import Personal from "./routes/personal";
 
-
 const router = createBrowserRouter([
   {
     path: "/",
